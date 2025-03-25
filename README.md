@@ -36,8 +36,7 @@ The project includes both non-parametric and parametric identification methods, 
 - **Valentin-Ștefan Ungureanu**
 - Technical University of Cluj-Napoca | Faculty of Automation and Computer Science
 
-## 📝 License
-This project is licensed under the MIT License.
+
 
 ---
 > *For any questions or academic collaboration proposals, feel free to contact me.*
