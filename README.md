@@ -13,24 +13,24 @@ This project focuses on identifying and modeling second-order dynamic systems us
     Validate models using statistical tests
 
 🛠 Methods Used
-Non-parametric identification based on resonance
+        Non-parametric identification based on resonance
 
-ARMAX and OE modeling
+        ARMAX and OE modeling
 
-Frequency response estimation
+        Frequency response estimation
 
-Model validation via autocorrelation and error analysis
+        Model validation via autocorrelation and error analysis
 
 📈 Tools & Technologies
-MATLAB for analysis, modeling, and validation
+        MATLAB for analysis, modeling, and validation
 
-CSV data processing and signal visualization
+        CSV data processing and signal visualization
 
 ✅ Results
-Successfully identified transfer functions
+        Successfully identified transfer functions
 
-Resonance parameters (damping, natural frequency, etc.) extracted
+        Resonance parameters (damping, natural frequency, etc.) extracted
 
-Frequency response validated through Bode plots
+        Frequency response validated through Bode plots
 
-Parametric models achieved over 96% fit
+        Parametric models achieved over 96% fit
