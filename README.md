@@ -2,15 +2,15 @@
 This project focuses on identifying and modeling second-order dynamic systems using experimental data and resonance analysis. Both non-parametric and parametric methods are used for system identification and validation.
 
 ⚙️ Objectives
-Identify second-order systems (with and without zeros)
+    Identify second-order systems (with and without zeros)
 
-Analyze resonance to extract key parameters
+    Analyze resonance to extract key parameters
 
-Estimate frequency response using Bode plots
+    Estimate frequency response using Bode plots
 
-Apply ARMAX and OE models for parametric identification
+    Apply ARMAX and OE models for parametric identification
 
-Validate models using statistical tests
+    Validate models using statistical tests
 
 🛠 Methods Used
 Non-parametric identification based on resonance
